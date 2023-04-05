@@ -1,0 +1,1 @@
+from .router_post_api import router as posts
